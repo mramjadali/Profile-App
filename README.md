@@ -13,7 +13,7 @@ A beautiful and responsive Flutter profile application with bottom navigation.
 <img src="assets/images/education.jpeg" width="200" alt="Education Screen">
 
 ### Skills Screen
-<img src="assets/images/skills.jpeg" width="200" alt="Skills Screen">
+<img src="assets/images/skillls.jpeg" width="200" alt="Skills Screen">
 
 ### Contact Screen
 <img src="assets/images/contact.jpeg" width="200" alt="Contact Screen">

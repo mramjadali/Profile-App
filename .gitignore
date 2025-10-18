@@ -1,0 +1,16 @@
+# Flutter 
+.flutter-plugins 
+.flutter-plugins-dependencies 
+.packages 
+.dart_tool/ 
+build/ 
+android/app/debug/ 
+android/app/profile/ 
+android/app/release/ 
+ios/DerivedData/ 
+*.iml 
+*.metadata 
+.DS_Store 
+Thumbs.db 
+.vscode/ 
+.idea/ 

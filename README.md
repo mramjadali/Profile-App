@@ -1,9 +1,72 @@
-## profile App
+# Flutter Profile App
 
-A new Flutter project.
+A beautiful and responsive Flutter profile application with bottom navigation.
 
-## Getting Started
+## 📱 Screenshots
 
+<div align="center">
+  
+### Home Screen
+<img src="screenshots/home.jpeg" width="200" alt="Home Screen">
+
+### Education Screen  
+<img src="education.jpeg" width="200" alt="Education Screen">
+
+### Skills Screen
+<img src="screenshots/skills.jpeg" width="200" alt="Skills Screen">
+
+### Contact Screen
+<img src="screenshots/contact.jpeg" width="200" alt="Contact Screen">
+
+</div>
+
+## ✨ Features
+
+- 👤 Personal profile with photo and bio
+- 🎓 Education section with timeline
+- 💼 Skills with progress indicators  
+- 📞 Contact information and message form
+- 📱 Responsive design
+- 🧭 Bottom navigation bar
+
+## 🚀 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/mramjadali/Profile-App.git
+
+# Navigate to project
+cd Profile-App
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
+```
+
+## 🛠 Technologies Used
+
+- Flutter
+- Dart
+- Material Design
+
+## 📦 Project Structure
+
+```
+lib/
+├── main.dart
+└── screens/
+    ├── profile_screen.dart
+    ├── home_tab.dart
+    ├── education_tab.dart
+    ├── skills_tab.dart
+    └── contact_tab.dart
+```
+
+## 👨‍💻 Created by
+
+[mramjadali](https://github.com/mramjadali)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:

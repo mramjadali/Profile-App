@@ -7,16 +7,16 @@ A beautiful and responsive Flutter profile application with bottom navigation.
 <div align="center">
   
 ### Home Screen
-<img src="screenshots/home.jpeg" width="200" alt="Home Screen">
+<img src="assets/images/home.jpeg" width="200" alt="Home Screen">
 
 ### Education Screen  
-<img src="education.jpeg" width="200" alt="Education Screen">
+<img src="assets/images/education.jpeg" width="200" alt="Education Screen">
 
 ### Skills Screen
-<img src="screenshots/skills.jpeg" width="200" alt="Skills Screen">
+<img src="assets/images/skills.jpeg" width="200" alt="Skills Screen">
 
 ### Contact Screen
-<img src="screenshots/contact.jpeg" width="200" alt="Contact Screen">
+<img src="assets/images/contact.jpeg" width="200" alt="Contact Screen">
 
 </div>
 
